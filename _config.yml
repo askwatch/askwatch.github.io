@@ -1,3 +1,5 @@
 title: AskWatch
 description: Open data and free tools for AI search, from AskWatch.
 url: https://askwatch.github.io
+plugins:
+  - jekyll-sitemap
